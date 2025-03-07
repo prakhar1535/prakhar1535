@@ -33,13 +33,13 @@
 
 ###
 
-<img align="left" height="206" src="https://c.tenor.com/H8sFCwcrb6UAAAAC/tenor.gif"  />
+<img align="left" height="270" src="https://c.tenor.com/H8sFCwcrb6UAAAAC/tenor.gif"  />
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/-">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=-&count=6&unique=true" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://open.spotify.com/user/31tjqkozfp7jhbkacntbfzgcq4va">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tjqkozfp7jhbkacntbfzgcq4va&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
