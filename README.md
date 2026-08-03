@@ -22,14 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
-
-
-###
-
 <img align="left" height="270" src="https://c.tenor.com/H8sFCwcrb6UAAAAC/tenor.gif"  />
-
-###
 
 <div align="left">
   <a href="https://open.spotify.com/user/31tjqkozfp7jhbkacntbfzgcq4va">
